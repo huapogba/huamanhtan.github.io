@@ -1,4 +1,4 @@
-git clone https://github.com/<huapogba>/<huapogba>.github.io.git
+
 # Xin chào, tôi là Hứa Mạnh Tân
 
 ## Giới thiệu
